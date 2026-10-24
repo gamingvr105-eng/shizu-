@@ -1,0 +1,23 @@
+# Environment and secret keys
+.env
+.env.local
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Database
+*.db
+*.sqlite3
+database/*.db
+
+# Archives and large temporary generation files
+*.zip
+assets/temp_avatar_frames/
+
+# System and logs
+*.log
+.DS_Store
+Thumbs.db

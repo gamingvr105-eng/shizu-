@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.git
+.gitignore
+assets/temp_avatar_frames
+*.pdf
+page_*.png
+*.zip
